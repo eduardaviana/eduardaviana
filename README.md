@@ -1,6 +1,6 @@
 # Maria Eduarda Viana
 
-Graduanda em Computação pela Universidade Federal de Campina Grande (UFCG), com formação no ensino médio técnico integrado em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba (IFPB).
+Graduanda em Ciência da Computação pela UFCG, com formação técnica em Informática pelo IFPB (ensino médio integrado).
 
 ## Conhecimentos:
 
