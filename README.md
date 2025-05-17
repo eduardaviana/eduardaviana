@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c99d7b&height=1" width="100%" />
-
 # Maria Eduarda Viana
 
 Graduanda em Ciência da Computação pela UFCG, com formação técnica em Informática pelo IFPB (ensino médio integrado).
