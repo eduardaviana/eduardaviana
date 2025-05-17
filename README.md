@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c99d7b&height=1" width="100%" />
+
 # Maria Eduarda Viana
 
 Graduanda em Ciência da Computação pela UFCG, com formação técnica em Informática pelo IFPB (ensino médio integrado).
@@ -13,7 +15,6 @@ Graduanda em Ciência da Computação pela UFCG, com formação técnica em Info
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaeduardaviana142@gmail.com)
 [![Lattes](https://img.shields.io/badge/Lattes-007ACC?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/2747564557150062)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c99d7b&height=1" width="100%" />
 
 
 
